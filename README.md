@@ -18,3 +18,13 @@ Perfil pessoal de Luiz Henrique Paes Arantes — Biomédico e estudante de ADS.
 
 ---
 ⭐ “Transformar ciência em código e dados em impacto real.”  
+---
+
+## 🗓️ Diário de Progresso
+
+### Dia 0 — Preparação do Ambiente ✅
+Hoje configurei todo meu ambiente de desenvolvimento: instalei o VS Code, o Git e conectei meu Mac ao GitHub via SSH.  
+Aprendi o que é uma chave SSH, como autenticar com segurança e como preparar o ambiente para começar meus primeiros projetos.  
+Pequenos erros no terminal viraram ótimos aprendizados — e agora tudo está pronto para o próximo passo: colocar o projeto no ar! 💻  
+
+---
